@@ -1,0 +1,6 @@
+.terraform.lock.*
+terraform.tfstate
+terraform.tfstate*
+.terrafor*
+.terraform/
+
